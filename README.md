@@ -1,7 +1,7 @@
 GOOGLE FOOBAR
 ===
 
-**Only stage 3 is mentioned. Code is modified for confidential purpose. One of the problem is particularly hard.**
+**Code is modified for confidential purpose**
 
 dooms_day:
 - Fraction class and Linear Algebra class  
@@ -15,3 +15,7 @@ bomb_baby:
 
 free_the_bunny_prisoners:  
 - Combinations theory, Lexicographical order  
+
+escape_pods:
+- Maximum flow with multiple sources and sinks
+- https://en.wikipedia.org/wiki/Maximum_flow_problem
