@@ -1,7 +1,7 @@
 GOOGLE FOOBAR
 ===
 
-**Please do not use source code for any other purpose than education, especially plagirism**
+**Please do not use source code for any other purpose than education, especially plagiarism.**
 
 dooms_day:
 - Fraction class and Linear Algebra class  
